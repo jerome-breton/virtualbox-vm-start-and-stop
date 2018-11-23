@@ -10,7 +10,7 @@ Usage :
 
 ### Linux/MacOS
 
-./vm-start-and-stop.sh [-h] ["VM Name"] [--sleep]
+    ./vm-start-and-stop.sh [-h] ["VM Name"] [--sleep]
 
     -h         Display help
     "VM Name"  Name of the VirtualBox machine to start
@@ -20,7 +20,7 @@ Usage :
 
 You might need to edit VirtualBox path in the script, then :
 
-vm-start-and-stop.cmd [-h] ["VM Name"] [--sleep]
+    vm-start-and-stop.cmd [-h] ["VM Name"] [--sleep]
 
     -h         Display help
     "VM Name"  Name of the VirtualBox machine to start
